@@ -1,0 +1,17 @@
+#general
+node_modules
+vendor
+.sass-cache
+.idea
+.DS_Store
+npm-debug.log
+
+#project
+_sdk/.bin
+.dist
+.report
+.tmp
+yarn-error.log
+
+#config
+config/*.js
