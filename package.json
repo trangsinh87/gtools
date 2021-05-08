@@ -7,7 +7,7 @@
     "config": "^3.1.0",
     "jscrambler": "^5.3.5",
     "load-grunt-tasks": "^5.0.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "time-grunt": "^2.0.0"
   },
   "devDependencies": {
